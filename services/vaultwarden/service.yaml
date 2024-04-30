@@ -1,0 +1,5 @@
+host: ubuntu-s-1vcpu-1gb-nyc3-01
+appdata:
+  - /var/lib/bitwarden_rs
+ports:
+  - 8222:8222
